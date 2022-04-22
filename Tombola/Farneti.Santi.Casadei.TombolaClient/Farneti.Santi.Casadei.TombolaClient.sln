@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farneti.Santi.Casadei.TombolaClient", "Farneti.Santi.Casadei.TombolaClient.csproj", "{AB1C79D8-0776-4B8E-BCAE-8146C7BEE3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1C79D8-0776-4B8E-BCAE-8146C7BEE3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1C79D8-0776-4B8E-BCAE-8146C7BEE3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1C79D8-0776-4B8E-BCAE-8146C7BEE3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1C79D8-0776-4B8E-BCAE-8146C7BEE3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF194602-A1E3-40BA-882E-7F1AED11410B}
+	EndGlobalSection
+EndGlobal
