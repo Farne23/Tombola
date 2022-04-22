@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farneti.Santi.Casadei.TombolaServer", "Farneti.Santi.Casadei.TombolaServer.csproj", "{7EF7C4B8-38A8-48F6-B5E1-FB46317B6305}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farneti.Santi.Casadei.TombolaServer", "Farneti.Santi.Casadei.TombolaServer.csproj", "{882DCCBD-34B7-4CB5-820D-E4671ECDC97B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7EF7C4B8-38A8-48F6-B5E1-FB46317B6305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EF7C4B8-38A8-48F6-B5E1-FB46317B6305}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EF7C4B8-38A8-48F6-B5E1-FB46317B6305}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EF7C4B8-38A8-48F6-B5E1-FB46317B6305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882DCCBD-34B7-4CB5-820D-E4671ECDC97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882DCCBD-34B7-4CB5-820D-E4671ECDC97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882DCCBD-34B7-4CB5-820D-E4671ECDC97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882DCCBD-34B7-4CB5-820D-E4671ECDC97B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F54F3BA2-AF9F-4600-8847-A71334E34D4E}
+		SolutionGuid = {1F3CD3BC-5D9C-490E-9177-36E36A1CA60D}
 	EndGlobalSection
 EndGlobal
